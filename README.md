@@ -11,12 +11,12 @@ and discuss how I can add value to your team.</p>
   <br>
   🌟 Collaborated with NLP engineers to comprehend specific. <br>
 🌟 Problem areas and adapt labeling accordingly. Utilized tools like Spacy to streamline the annotation
-process. 
+process. <br>
 🌟 Develop innovative workflows for data mapping, optimizing
-efficiency and accuracy. 
+efficiency and accuracy. <br>
 🌟 Collaborate with cross-functional teams to align data
 mapping practices with project objectives and ensure
-seamless data integration. 
+seamless data integration. <br>
 🌟 Continuously evaluate and refine data mapping approaches
 based on performance metrics and emerging technologies.
 </p>
